@@ -1,6 +1,6 @@
 # 💫 About Me:
 Student at IIT KANPUR 🏣<br>
-Learning ML/DS 😁<br>
+Learning PROGRAMMING 😁<br>
 PUNE,INDIA <br>
 
 
